@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FMXCategoryKit'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of FMXCategoryKit.'
+  s.version          = '1.2'
+  s.summary          = '第二次xxx'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

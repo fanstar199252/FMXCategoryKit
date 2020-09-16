@@ -1,4 +1,5 @@
 # FMXCategoryKit
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/1351893134@qq.com/FMXCategoryKit.svg?style=flat)](https://travis-ci.org/1351893134@qq.com/FMXCategoryKit)
 [![Version](https://img.shields.io/cocoapods/v/FMXCategoryKit.svg?style=flat)](https://cocoapods.org/pods/FMXCategoryKit)
@@ -27,3 +28,6 @@ pod 'FMXCategoryKit'
 ## License
 
 FMXCategoryKit is available under the MIT license. See the LICENSE file for more info.
+=======
+远程组件库
+>>>>>>> 2506de4b0014ce2182b0eaf57676bc255ce1cdaf
