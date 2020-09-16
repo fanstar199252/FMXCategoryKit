@@ -1,0 +1,16 @@
+PODS:
+  - FMXCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - FMXCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  FMXCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMXCategoryKit: fba1ee6bf3dba07a457094e9f7cca328f67c7470
+
+PODFILE CHECKSUM: e777603b5f5c0575e266c1755645f4a154c6ee6c
+
+COCOAPODS: 1.9.3
