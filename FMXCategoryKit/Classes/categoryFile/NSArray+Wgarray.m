@@ -27,7 +27,7 @@
 
 - (id)wg_objectAtIndexedSubscript:(NSUInteger)index{
     if (!self.count || self.count - 1 < index) {
-        NSLog(@"objectAtIndexedSubscript越界");
+        NSLog(@"objectAtIndexedSubscript越界了");
         return nil;
     }else{
         id obj = [self wg_objectAtIndexedSubscript:index];
